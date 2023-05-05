@@ -1,10 +1,10 @@
 {
   "_version": "1.2",
   "project": {
-    "_id": "645091e7d7648100079d2a8c",
+    "_id": "6455283ef4480b0007bb52cc",
     "name": "GlucoseAI",
-    "teamID": "eaE0vGoKj6",
-    "devVersion": "645091e7df356a0dcd2bda7c",
+    "teamID": "vrk1eaM8k3",
+    "devVersion": "6455283ef4480b0007bb52cd",
     "platform": "webchat",
     "type": "chat",
     "platformData": {
@@ -19,14 +19,15 @@
       "generateNoMatch": true
     },
     "_version": 1.2,
-    "updatedAt": "2023-05-02T05:01:08.734Z",
-    "creatorID": 129915,
-    "updatedBy": 129915,
+    "updatedAt": "2023-05-05T16:02:15.024Z",
+    "creatorID": 130972,
+    "updatedBy": 130972,
     "apiPrivacy": "private",
-    "createdAt": "2023-05-02T04:30:31.000Z"
+    "privacy": "private",
+    "createdAt": "2023-05-05T16:01:02.000Z"
   },
   "version": {
-    "_id": "645091e7df356a0dcd2bda7c",
+    "_id": "6455283ef4480b0007bb52cd",
     "variables": [
       "sessions",
       "user_id",
@@ -56,28 +57,28 @@
     },
     "_version": 4.01,
     "name": "Initial Version",
-    "projectID": "645091e7d7648100079d2a8c",
+    "projectID": "6455283ef4480b0007bb52cc",
     "manualSave": false,
     "autoSaveFromRestore": false,
     "topics": [
       {
-        "sourceID": "645091e7df356a0dcd2bda7d",
+        "sourceID": "6455283ef4480b0007bb52ce",
         "type": "DIAGRAM"
       }
     ],
     "components": [],
-    "rootDiagramID": "645091e7df356a0dcd2bda7d",
+    "rootDiagramID": "6455283ef4480b0007bb52ce",
     "domains": [
       {
         "id": "cla06iyr900b206pkh8d4ap8n",
         "name": "Home",
         "live": true,
         "topicIDs": [
-          "645091e7df356a0dcd2bda7d"
+          "6455283ef4480b0007bb52ce"
         ],
-        "rootDiagramID": "645091e7df356a0dcd2bda7d",
-        "updatedAt": "2023-05-02T05:01:08.735Z",
-        "updatedBy": 129915
+        "rootDiagramID": "6455283ef4480b0007bb52ce",
+        "updatedAt": "2023-05-05T16:02:15.025Z",
+        "updatedBy": 130972
       }
     ],
     "canvasTemplates": [
@@ -112,8 +113,7 @@
         ]
       }
     ],
-    "creatorID": 129915,
-    "templateDiagramID": "645091e7df356a0dcd2bda7e",
+    "creatorID": 130972,
     "prototype": {
       "type": "chat",
       "data": {
@@ -129,7 +129,7 @@
       "context": {
         "stack": [
           {
-            "programID": "645091e7df356a0dcd2bda7d",
+            "programID": "6455283ef4480b0007bb52ce",
             "storage": {},
             "variables": {}
           }
@@ -150,18 +150,19 @@
       },
       "settings": {},
       "platform": "webchat"
-    }
+    },
+    "templateDiagramID": "6455283ef4480b0007bb52cf"
   },
   "diagrams": {
-    "645091e7df356a0dcd2bda7d": {
-      "_id": "645091e7df356a0dcd2bda7d",
+    "6455283ef4480b0007bb52ce": {
+      "_id": "6455283ef4480b0007bb52ce",
       "offsetX": 427.20000000000005,
       "offsetY": 315.2,
       "zoom": 100,
       "variables": [],
       "name": "ROOT",
-      "versionID": "645091e7df356a0dcd2bda7c",
-      "creatorID": 129915,
+      "versionID": "6455283ef4480b0007bb52cd",
+      "creatorID": 130972,
       "modified": 1683001831,
       "intentStepIDs": [],
       "type": "TOPIC",
@@ -690,7 +691,7 @@
                   {
                     "children": [
                       {
-                        "text": "Tell me about your family history with diabetes?"
+                        "text": "Tell me about your family history with diabetes."
                       }
                     ]
                   }
@@ -803,7 +804,7 @@
                   {
                     "children": [
                       {
-                        "text": "Do you have any other health problems?"
+                        "text": "Describe in detail whether you have any other health problems."
                       }
                     ]
                   }
@@ -1437,8 +1438,8 @@
         }
       }
     },
-    "645091e7df356a0dcd2bda7e": {
-      "_id": "645091e7df356a0dcd2bda7e",
+    "6455283ef4480b0007bb52cf": {
+      "_id": "6455283ef4480b0007bb52cf",
       "name": "Template Diagram",
       "type": "TEMPLATE",
       "zoom": 100,
@@ -1447,8 +1448,8 @@
       "modified": 1683001831,
       "variables": [],
       "menuItems": [],
-      "creatorID": 129915,
-      "versionID": "645091e7df356a0dcd2bda7c",
+      "creatorID": 130972,
+      "versionID": "6455283ef4480b0007bb52cd",
       "nodes": {
         "6438725334aead00076d562e": {
           "type": "start",
